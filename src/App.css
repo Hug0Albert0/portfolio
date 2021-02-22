@@ -3,6 +3,7 @@
     display: flex;
     justify-content: center;
     background-color: black;
+    overflow: hidden;
 }
 
 .App-header {
@@ -16,7 +17,7 @@
 
 .titleProfile {
     background-color: yellow;
-    width: 20em;
+    width: 90%;
     padding: 1em;
     border-width: 20px solid;
     border-radius: 1em;
