@@ -10,7 +10,11 @@ const PersonBar = (props) => {
                 <h2>Hugo Alberto Rivera Diaz</h2>
                 <h4>💻Software Developer⚛️🐍</h4>
                 <h5>Villahermosa, Tabasco🏡🐢</h5>
-                <h6>📧hugorivera.cool.player@gmail.com</h6>
+                <h6>
+                    <a href="mailto:hugorivera.cool.player@gmail.com">
+                        📧hugorivera.cool.player@gmail.com
+                    </a>
+                </h6>
             </div>
             <div className="social">
                 <a
